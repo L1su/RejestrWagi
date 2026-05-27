@@ -1,4 +1,5 @@
 # REJESTR WAGI
+![Zrzut z aplikacji](img/app.png)
 
 Profesjonalny, lekki system webowy przeznaczony do automatycznej rejestracji, sumowania oraz raportowania odczytów mas bezpośrednio z wag przemysłowych przez interfejs szeregowy **RS-232** (Web Serial API) oraz kodów identyfikacyjnych za pomocą skanerów kodów kreskowych/QR (emulacja klawiatury).
 
