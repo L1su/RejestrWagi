@@ -38,7 +38,7 @@ Dzięki symbiotycznej współpracy człowieka z AI, aplikacja cechuje się:
 System działa w modelu licencjonowania komercyjnego. Poniżej znajduje się oficjalna lista autoryzowanych wdrożeń produkcyjnych oraz zewnętrznych repozytoriów GitHub, które opłaciły pełną licencję na użytkowanie oprogramowania:
 
 ### 🌐 Lista Wdrożeń Komercyjnych (Strony z opłaconą licencją)
-1. **FoxFix** ([FoxFix.it](https://foxfix.it/)) – Główny partner wdrożeniowy i autoryzowany dystrybutor systemu[cite: 4].
+1. **FoxFix** ([FoxFix.it](https://foxfix.it/)) – Główny partner wdrożeniowy i autoryzowany dystrybutor systemu
 
 ### 🐙 Lista Zakupionych Repozytoriów (Autoryzowane Forki / Kopie GitHub)
 Dostęp do kodu źródłowego oraz prawo do dalszego rozwoju i wdrażania projektu w ramach własnych organizacji na GitHubie posiadają wyłącznie poniższe profile/repozytoria:
